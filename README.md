@@ -26,4 +26,4 @@ like this.
 
 Here is the demo:
 
-![](/demo/demo1.gif)
+![](/demo/demo1.PNG)

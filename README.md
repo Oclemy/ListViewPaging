@@ -1,4 +1,4 @@
-# Android ListView Pagination Search
+# Android ListView Pagination
 
 View full tutorial here: http://camposha.info/android/custom-listview-pagination
 

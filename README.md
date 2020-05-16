@@ -1,6 +1,6 @@
 # Android ListView Pagination
 
-View full tutorial here: http://camposha.info/android/custom-listview-pagination
+View full tutorial here: https://camposha.info/android-pagination-examples-for-listviewgridview-and-cardview/
 
 # Concepts.
 
@@ -17,7 +17,7 @@ like this.
 
 |No.|Location|Link|
 |---|--------|---------|
-|1.|Camposha|[View Full Tutorial](https://camposha.info/android/custom-listview-pagination)|
+|1.|Camposha|[View Full Tutorial](https://camposha.info/android-pagination-examples-for-listviewgridview-and-cardview/)|
 |2.|YouTube |[Watch Video Tutorial](https://www.youtube.com/watch?v=VI1J0nrN6zw) |
 |3.|YouTube |[Subscribe to ProgrammingWizards TV Channel](https://www.youtube.com/c/programmingwizards) |
 |4.|Camposha|[View All ListView Tutorials](https://camposha.info/android/listview)|
